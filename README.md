@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/poetafivem/poetafivem/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://cdn.discordapp.com/attachments/1094485795898933273/1184895212238160043/bannerpoetafivemestatico.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Bem vindo ao meu perfil ❤️ Atualmente trabalho como design grafico tendo em media 3 Anos de experiencia no mercado. <br><br> Porem estou estudando FrontEnd, E <strong>sempre procurando evoluir.</strong> Ja Realizei serviços para diversas marcas e servidores de Fivem. <strong>Tenho uma loja com uma equipe de desenvolvedores BackEnd e FrontEnd, </strong>Designers grafico e muito mais. https://discord.gg/JJcgY6aNhm</p>&nbsp;
@@ -32,14 +32,14 @@
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 ![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estudando no momento:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href="https://discord.gg/JJcgY6aNhm" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
