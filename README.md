@@ -27,10 +27,10 @@
 
 #### Experiências como designer grafico:
 
-![Photoshop]([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black))&nbsp;
-![AfterEffecths]([https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/After%20Effecths-7b68ee?style=for-the-badge&logo=photoshop&logoColor=white))&nbsp;
-![Vegas]([https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white](https://img.shields.io/badge/Vegas-98fb98?style=for-the-badge&logo=photoshop&logoColor=white))&nbsp;
-![Ilustrator]([https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Ilustrator-d2691e?style=for-the-badge&logo=photoshop&logoColor=white))&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![AfterEffecths](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
+![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
+![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
