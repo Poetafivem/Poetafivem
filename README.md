@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://cdn.discordapp.com/attachments/1094485795898933273/1184895212238160043/bannerpoetafivemestatico.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Bem vindo ao meu perfil ❤️ Atualmente trabalho como design grafico tendo em media 3 Anos de experiencia no mercado. <br><br> Porem estou estudando FrontEnd, E <strong>sempre procurando evoluir.</strong> Ja Realizei serviços para diversas marcas e servidores de Fivem. <strong>Tenho uma loja com uma equipe de desenvolvedores BackEnd e FrontEnd, </strong>Designers grafico e muito mais. https://discord.gg/JJcgY6aNhm</p>&nbsp;
+<p align="center">Bem vindo ao meu perfil ❤️ Atualmente trabalho como design grafico tendo em media 3 Anos de experiencia no mercado. <br><br> Porem estou estudando FrontEnd, E <strong>sempre procurando evoluir.</strong> Ja Realizei serviços para diversas marcas e servidores de Fivem. <strong>Tenho uma loja com uma equipe de desenvolvedores BackEnd e FrontEnd, </strong>Designers grafico e muito mais. https://discord.gg/UpQPFgZTsB</p>&nbsp;
  
  &nbsp;
  &nbsp;
